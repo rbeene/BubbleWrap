@@ -7,6 +7,8 @@ A collection of (tested) helpers and wrappers used to wrap CocoaTouch code and p
 
 [![Code Climate](https://codeclimate.com/github/rubymotion/BubbleWrap.png)](https://codeclimate.com/github/rubymotion/BubbleWrap)
 
+[![CLA assistant](https://cla-assistant.io/readme/badge/rbeene/BubbleWrap)](https://cla-assistant.io/rbeene/BubbleWrap)
+
 ## Installation
 
 ```ruby
